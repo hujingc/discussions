@@ -18,7 +18,7 @@ p{
 a{
   /* make your links red, italics, and underlined */
   color: red;
-  font-style: italics;
+  font-style: italic;
   text-decoration: underline;
 }
 a:hover{
@@ -39,7 +39,7 @@ img{
   border: dashed 3px green;
 }
 
-.footer{
+footer{
   /* style the footer so it has a black background and white text */
   color: white;
   background-color:black;
